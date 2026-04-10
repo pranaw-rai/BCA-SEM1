@@ -1,0 +1,1 @@
+// Write a c program to find the sum of series of 1 - x square + x square + x cube +...... + (-1)^n. x ^n
