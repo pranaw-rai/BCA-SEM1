@@ -13,3 +13,11 @@ int main()
     printf("\nThe perimeter of circle is: %.2f", perimeter);
     return 0;
 }
+
+// Ouput
+/*
+Enter radius of a circle: 4
+
+The area of a circle is: 50.27
+The perimeter of circle is: 25.13
+*/
