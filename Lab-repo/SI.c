@@ -12,3 +12,4 @@ int main()
     printf("Simple Interest: %.2f\n", simpleInterest);
     return 0;
 }
+
