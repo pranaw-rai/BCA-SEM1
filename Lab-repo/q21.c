@@ -32,7 +32,6 @@ int main(){
 // Output
 
 /*
-Enter coefficients a, b & c: 3
-4
-5
+Enter coefficients a, b & c: 3 4 5
+Roots are complex: -0.67 + 1.11i, -0.67 - 1.11i
 */
